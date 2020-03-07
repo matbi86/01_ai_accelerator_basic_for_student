@@ -86,7 +86,8 @@ int main(){
 	// TODO Add yours code at day 1
 
 
-
+	// TODO Add file write to dump result in file.
+		//fprintf(fp_result,"(%d,0) %d\n", och, result[och]);
 
 
 	// to check result between ref_c vs rtl_v
