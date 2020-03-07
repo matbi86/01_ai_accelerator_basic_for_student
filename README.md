@@ -6,7 +6,7 @@ Prerequisite : Verilog HDL / C
 
 # day 1 
 DeepLearning Basic (theory)
-- AI History
+- What is AI
 - Perceptron
 - Multi-layer Perceptron
 - Neural Networks
