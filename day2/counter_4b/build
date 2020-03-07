@@ -1,0 +1,4 @@
+xvlog ./counter_4b.v ./counter_4b_tb.v
+xelab counter_4b_tb -debug wave -s counter_4b_tb
+#xsim counter_4b_tb -R 
+xsim counter_4b_tb -gui -wdb simulate_xsim_counter_4b_tb.wdb 
