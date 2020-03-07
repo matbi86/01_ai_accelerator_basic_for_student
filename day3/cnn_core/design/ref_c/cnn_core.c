@@ -82,23 +82,12 @@ int main(){
 	fclose(fp_w);
 	fclose(fp_b);
 
-	// multiply and accumulate
-	for (och = 0 ; och < OCH; och ++){
-		for(ich = 0; ich < ICH; ich ++){
-			for(ky = 0; ky < KY; ky++){
-				for(kx = 0; kx < KX; kx++){
-					mac_result[och] += (fmap[ich][ky][kx] * weight[och][ich][ky][kx]);
-				}
-			}
-		}
-	}
 
-	// added bias, no activation function
-	for (och = 0 ; och < OCH; och ++){
-		result[och] = mac_result[och] + bias[och];
-		//printf("[och:%d] result : %d\n",och, result[och]);
-		fprintf(fp_result,"(%d,0) %d\n", och, result[och]);
-	}
+	// TODO Add yours code at day 1
+
+
+
+
 
 	// to check result between ref_c vs rtl_v
 	for (och = 0 ; och < OCH; och ++){
