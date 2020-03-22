@@ -40,9 +40,10 @@ $display("Reset! [%d]", $time);
 # 10
     reset_n = 1;
 // start
+# 20
 $display("Start! [%d]", $time);
 i_data_en=1;
-# 1000
+# 100
 $display("Finish! [%d]", $time);
 $finish;
 end
