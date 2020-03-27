@@ -1,3 +1,5 @@
+Contact me? from my blog! : https://blog.naver.com/chacagea 
+                 my email : chacagea@naver.com
 
 # Syllabus : 01_ai_accelerator_basic
 teaching ai_accelerator_basic for student. (3 Days)
