@@ -1,6 +1,3 @@
-Contact me? from my blog! : https://blog.naver.com/chacagea 
-                 my email : chacagea@naver.com
-
 # Syllabus : 01_ai_accelerator_basic
 teaching ai_accelerator_basic for student. (3 Days)
 
@@ -59,3 +56,7 @@ Theory : CNN Core Design using Verilog HDL
 Training : CNN Core Design using Verilog HDL
 - CNN Design with Verilog HDL
 - CNN Design Review
+
+# Contact me? 
+my blog! : https://blog.naver.com/chacagea 
+my email : chacagea@naver.com
